@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="apk" build-on-make="true" name="Sweeper">
+    <output-path>$PROJECT_DIR$/out/artifacts/Sweeper</output-path>
+    <properties id="android-properties">
+      <options>
+        <option name="keyStoreUrl" value="file://" />
+      </options>
+    </properties>
+    <root id="archive" name="Sweeper.apk">
+      <element id="archive" name="Sweeper.jar">
+        <element id="module-output" name="Sweeper" />
+      </element>
+    </root>
+  </artifact>
+</component>
